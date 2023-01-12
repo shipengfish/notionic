@@ -2,7 +2,7 @@ const BLOG = {
   title: '成长实证',
   author: '可巴伐',
   email: 'huanxipub@163.com',
-  link: 'https://xiexie.me',
+  link: 'https://www.xiexie.me',
   newsletter: '生活热爱者',
   description: '记录我的成长实证，学习、健康、生活',
   lang: 'zh-CN', // ['en-US', 'zh-CN', 'zh-HK', 'zh-TW', 'ja-JP', 'es-ES']
